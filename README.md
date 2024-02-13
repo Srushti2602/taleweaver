@@ -29,6 +29,3 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 NA
 
-## Contact
-
-For technical queries and support, contact Siddharth Singh at sms10221@nyu.edu.
